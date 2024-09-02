@@ -2,6 +2,10 @@
 
 This is a simple event booking application built using React and Vite. The application allows users to view events, book tickets, and manage their bookings.
 
+## Live Demo
+
+Check out the live demo of the application [here](https://event-booking-me8t4qp86-hugo-encinas-projects.vercel.app/).
+
 ## Installation
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git:
