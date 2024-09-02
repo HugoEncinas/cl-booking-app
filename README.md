@@ -4,7 +4,7 @@ This is a simple event booking application built using React and Vite. The appli
 
 ## Live Demo
 
-Check out the live demo of the application [here](https://event-booking-me8t4qp86-hugo-encinas-projects.vercel.app/).
+Check out the live demo of the application [here](https://event-booking-app-hugo-encinas-projects.vercel.app/).
 
 ## Installation
 
